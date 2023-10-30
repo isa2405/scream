@@ -1,5 +1,4 @@
 i{color: rgb(167, 14, 14);
-background-color: rgb(255, 255, 255);
 h1{color: rgb(0, 0, 0);}
 h2{color: rgb(196, 13, 13);}
 h3{color: rgb(0, 0, 0);}
@@ -8,3 +7,8 @@ h4{color: rgb(190, 26, 26);}
 #imal2{margin-left: 50%;}
 #imal3{margin-left: 50%;}
 #imal4{margin-left: 50%;}
+h1{font-size: medium;}
+i{font-size: small;}
+h2{font-size: medium;}
+h3{font-size: medium;}
+h4{font-size: medium;}
